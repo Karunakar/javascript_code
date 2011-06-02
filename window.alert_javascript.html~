@@ -1,0 +1,5 @@
+<script>
+	x= prompt("entername","welcome");
+	alert(x);
+</script>
+

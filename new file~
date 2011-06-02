@@ -1,0 +1,19 @@
+<html>
+
+	<fieldset style="width:250" size= 30px>
+		<legend>Login Form</legend>
+		<table border = "1" bgcolor ="blue">		 
+		<tr>
+			<td>username</td>
+			<td>input type="text"</td>
+		</tr>
+		<tr>
+			<td>password</td>
+			<td>input type="password"</td>
+		</tr>
+		<tr><td colspan="2" align="center"><input type="button" value="login"></td></tr>
+	</table>
+
+
+</html>
+

@@ -1,0 +1,11 @@
+<html>
+	<head> frameset</head>
+	<frameset cols="20%,*">
+		<frame src= "std_record.html" name="frm1">
+	<frameset>
+</html>
+
+<!--<body></body>
+<a href = "link_sample.html" target = "frm2"></a>
+<a href = "std_record.html" target = "frm2"></a>
+</html>-->

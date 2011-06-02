@@ -1,0 +1,20 @@
+<html>
+
+	
+	< align = "center" img src = "/home/sridher/Desktop/DSC00048.JPG " width = "100" height ="70">shashi's birthday </img> 	
+	<marquee> THIS IS STUDENT RECORD </marquee>
+	
+	<body align = "center" >
+	<fieldset style="width:250;">
+	<legend style = "font-family:verdana;color:blue;font-size:50px;" align = "center" >Student_Record</legend>
+
+	<table style="background-color:black;font-family:bold;color:red;font-size:30px;" border="2" >
+		<tr><td>subjects</td><td>scored_marks</td><td>marks</td></tr>
+		<tr><td>physics</td><td>47</td><td>60</td></tr>
+		<tr><td>chemistry</td><td>47</td><td>60</td></tr>
+		<tr><td>maths</td><td>146</td><td>150</td></tr>
+		<tr><td>english</td><td>60</td><td>100</td></tr>
+		<tr><td>telugu</td><td>92</td><td>100</td></tr>
+	</table>
+	</body>
+</html>

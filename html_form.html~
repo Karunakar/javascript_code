@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title> Basic sample</title>
+	</head>
+
+	<body>
+		<a href="signup.html?id=35">Sign UP</a>
+	</body>
+</html>
+

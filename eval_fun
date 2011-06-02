@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			function fun()
+			{ 	
+				x = prompt();
+				y = prompt();
+				alert(eval(x)+eval(y));
+				close()
+			}
+	
+			
+		</script>
+	</head>
+	<body>
+		<input type = "button" value = "click" onclick ="fun()"/>
+		</body>

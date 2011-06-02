@@ -1,0 +1,8 @@
+<html>
+	<head>html</head>
+	<body>
+		username:&nbsp<input type= "text" name ="uname">
+		email:&nbsp<input type= "text" name ="email">
+		password:&nbsp<input type= "text" name ="password">
+	</body>
+</html>
